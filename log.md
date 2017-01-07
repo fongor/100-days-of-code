@@ -5,6 +5,6 @@
 
 **Today's Progress:** Back to code
 
-**Thoughts:** I hope I figured out how this github repo log thing works and in a minute I will go back to free code camp
+**Thoughts:** I hope I figured out how this github repo log thing works and in a minute I will go back to Free Code Camp
 
 **Link to work:** Gimme a minute
