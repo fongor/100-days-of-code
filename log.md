@@ -18,3 +18,14 @@
 **Thoughts:** Hum, few months without actual coding, I need to get my hands dirty again quickly.
 
 **Link to work:** http://codepen.io/jgrandsenne/pen/OWVoJE/
+
+
+
+### Day 2: January 8th, 2017
+##### (delete me or comment me out)
+
+**Today's Progress:** Been working on my local weather machine, looks now good on computer, but need to find out how to make it look good on phone as well.
+
+**Thoughts:** I need to really master CSS properties (at least the most important ones) if I don't want to waste time everytime I want to change or adapt something.
+
+**Link to work:** http://codepen.io/jgrandsenne/pen/pRJZXB
